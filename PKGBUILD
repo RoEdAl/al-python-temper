@@ -7,8 +7,7 @@ pkgdesc='Simple python library and tool for accessing TEMPer USB thermometers'
 arch=('any')
 url='https://github.com/urwen/temper'
 license=('MIT')
-depends=('python' 'python-setuptools')
-optdepends=()
+depends=('python' 'python-setuptools' 'python-pyserial')
 options=(!strip)
 source=(
 	'temper::git+https://github.com/urwen/temper.git'
