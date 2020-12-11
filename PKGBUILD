@@ -1,8 +1,8 @@
 # Maintainer: Edmunt Pienkowsky <roed@onet.eu>
 
 pkgname=python-temper
-pkgver=20190213
-pkgrel=4
+pkgver=20200203
+pkgrel=1
 pkgdesc='Simple python library and tool for accessing TEMPer USB thermometers'
 arch=('any')
 url='https://github.com/urwen/temper'
