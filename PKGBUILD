@@ -2,7 +2,7 @@
 
 pkgname=python-temper
 pkgver=20200203
-pkgrel=1
+pkgrel=2
 pkgdesc='Simple python library and tool for accessing TEMPer USB thermometers'
 arch=('any')
 url='https://github.com/urwen/temper'
